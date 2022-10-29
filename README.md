@@ -42,7 +42,7 @@ Validations Resource: https://mongoosejs.com/docs/validation.html
         
         email: { type: String, required: [true, "email is required"]}
         
-    },
+        },
     
     {timestamps: true}
     
